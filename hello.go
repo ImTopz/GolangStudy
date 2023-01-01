@@ -4,7 +4,10 @@ import "fmt"
 
 /**
 这里是golang
+{ 不能单独占一行，否则报错
 */
+
+/* 这是单行注释 */
 
 func main() {
 	fmt.Println("你好，这是你的第一行golang代码！")
